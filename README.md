@@ -155,15 +155,3 @@ Python 下有许多款不同的 Web 框架。Django 是重量级选手中最有�
 
 * [一个完整的初学者指南Django-part1](/Article/django/一个完整的初学者指南Django-part1.md)
 * [一个完整的初学者指南Django-part2](/Article/django/一个完整的初学者指南Django-part2.md)
-
-
-持续更新....
-
-
-可以关注我的公众号，实时了解更新情况。
-
-<img src="http://twowaterimage.oss-cn-beijing.aliyuncs.com/2020-09-15-121312.jpg" width="50%" height="50%">
-
-
-
-
